@@ -1,14 +1,25 @@
+Por supuesto, aquí está una versión mejorada del README utilizando Markdown:
 
-## Buscador de Archivos Simple
-Este es un programa simple en Go que toma el nombre de un archivo como entrada y devuelve la ruta absoluta del archivo utilizando el paquete filepath.
+```markdown
+# Buscador de Archivos Simple
+
+Este es un programa simple en Go que toma el nombre de un archivo como entrada y devuelve la ruta absoluta del archivo utilizando el paquete `filepath`.
+
+## Instalación
+
+1. Descarga el archivo.
+2. Descomprímelo.
+3. Dentro del archivo, encontrarás un instalador (`install.bat`) que debes ejecutar con permisos de administrador. Esto creará una carpeta y agregará el programa al PATH del sistema.
+
+## Uso
+
+1. Abre la línea de comandos (cmd).
+2. Ingresa `src`.
+3. Introduce el nombre de tu archivo junto con su extensión.
+
+¡Listo! El programa te mostrará la ruta absoluta del archivo ingresado.
+
+Este README proporciona instrucciones simples para utilizar el buscador de archivos. ¡Disfruta!
+```
 
 
-# Instalacion
-
-Descargar el archibo, descomprimirlo y dentro del archibo `hay un instaler que se debra ejecutar con permisos de administrador para crear una carpeta y agregarlo al path`
-
-#Uso
-
-- abir cmd
-- poner `src`
-- nombre de su archibo y su extension
