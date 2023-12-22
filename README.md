@@ -5,7 +5,7 @@ Este es un programa simple en Go que toma el nombre de un archivo como entrada y
 
 # Instalacion
 
-Descargar el archibo, descomprimirlo y dentro del archibo hay un instaler que se debra ejecutar con permisos de administrador para crear una carpeta y agregarlo al path
+Descargar el archibo, descomprimirlo y dentro del archibo `hay un instaler que se debra ejecutar con permisos de administrador para crear una carpeta y agregarlo al path`
 
 #Uso
 
